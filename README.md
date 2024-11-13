@@ -1,5 +1,6 @@
 # Github-for-beginners
-A repo to teach myself and how to beginners to use Git and Github
+
+GitHub is a web-based platform that enables developers to create, store, manage, and share their code. It utilizes the Git software, which provides distributed version control, access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
 ## What is Git ?
 Git is simply a free and open source version control system
