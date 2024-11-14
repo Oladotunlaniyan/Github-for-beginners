@@ -11,4 +11,11 @@ Version control, also known as revision control, source control, or source code 
 ### Terms to note in Version Control 
 - Directory -> Folder
 - Terminal or Command Line -> Interface for Text Commands
-- CLI -> Command Line Interface 
+- CLI -> Command Line Interface
+- cd -> Change Directory
+- Code Editor -> Word Processor for Writing code
+- Repository -> Project, or the folder/place where your project is kept.
+- Github(here) -> A website to host your repositories online.
+
+### Git Commands 
+- Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
