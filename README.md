@@ -20,3 +20,6 @@ Version control, also known as revision control, source control, or source code 
 ### Git Commands 
 - Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
 - add -> Track your files and changes in Github
+- commit -> Save your files in git
+- push -> Upload git commits to a remote repo like github
+- 
